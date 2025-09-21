@@ -16,6 +16,6 @@ galaxy_info:
     - mailcow
     - mailserver
     - docker
-  dependencies:
+dependencies:
    - role: docker-ce
    - role: docker-compose
